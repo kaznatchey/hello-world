@@ -1,3 +1,3 @@
 # Hello World
 ## Demo git commands
-git clone <repo-link>
+git clone repo-link
